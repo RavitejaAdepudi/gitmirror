@@ -1,4 +1,11 @@
+
+b
 a
+<<<<<<< HEAD
 b
 c
 d
+=======
+
+something new one
+>>>>>>> master
